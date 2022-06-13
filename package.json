@@ -1,6 +1,6 @@
 {
   "name": "@baboulaz/semantic-release-gitlab-mr-label",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Semantic-release plugin that replace de commit-analyser by using gitlab MR labels to dermine the release type",
   "main": "index.js",
   "keywords": [],
