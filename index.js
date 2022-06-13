@@ -1,6 +1,3 @@
-const loadParserConfig = require('./lib/load-parser-config');
-const loadReleaseRules = require('./lib/load-release-rules');
-
 /**
  * Determine the type of release to create based on a list of commits.
  *
